@@ -12,6 +12,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { AppleIcon, CalendarIcon, DumbbellIcon } from "lucide-react"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
 
+
 const ProfilePage = () => {
   const { user } = useUser()
   const userId = user?.id as string
