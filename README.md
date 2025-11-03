@@ -81,14 +81,6 @@ npm run dev
 
  Mobile PWA support
 
-## 🤝 Contributing
-Contributions are welcome! If you have ideas to improve AiFitX, feel free to fork the repo and make a pull request.
-
-### 📫 Contact
-Have questions or want to connect?
-
-GitHub: @codewmanas
-
 Website: https://ai-fit-x.vercel.app
 
 ### 🏁 License
